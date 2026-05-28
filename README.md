@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/03c1e0f3-34e0-486b-81a2-fc8b50d2a0d4
+
 # AI-InsightDB // Autonomous Business Intelligence Engine 🤖
 
 Raw numerical data spreadsheets tell a vital story, but business leaders often lack the time to parse rows of statistics or write complex forecasting models from scratch. 
